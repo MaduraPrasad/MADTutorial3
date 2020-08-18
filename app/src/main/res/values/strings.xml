@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntenstProj</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="input_number1">input number1</string>
+    <string name="input_number_2">input number 2</string>
+    <string name="ok">OK</string>
+    <string name="btn2">+</string>
+    <string name="btn3">-</string>
+    <string name="btn4">*</string>
+    <string name="btn5">/</string>
+</resources>
